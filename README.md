@@ -1,4 +1,4 @@
-# miniature-fiesta
+# face_recognition 
 Face Recognition System
 A robust Face Recognition System built using Python, OpenCV, and machine learning techniques. This system is capable of detecting and recognizing faces in real-time using a webcam or from static images.
 
